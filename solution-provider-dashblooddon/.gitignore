@@ -1,0 +1,10 @@
+# Environnements virtuels
+env/
+
+# Données sensibles
+data/raw/
+data/processed/
+
+# Cache Python
+__pycache__/
+*.pyc

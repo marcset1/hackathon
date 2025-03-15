@@ -1,0 +1,11 @@
+# Environnements virtuels
+env/
+solution-provider-dashblooddon/env/
+# Données sensibles
+data/
+data/raw/
+data/processed/
+
+# Cache Python
+__pycache__/
+*.pyc
