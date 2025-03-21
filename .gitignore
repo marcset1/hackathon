@@ -3,9 +3,10 @@ env/
 solution-provider-dashblooddon/env/
 # Données sensibles
 data/
-data/raw/
-data/processed/
+solution-provider-dashblooddon/data/
+solution-provider-dashblooddon/data/raw/
+solution-provider-dashblooddon/data/processed/
 
 # Cache Python
-__pycache__/
-*.pyc
+solution-provider-dashblooddon/__pycache__/
+solution-provider-dashblooddon/*.pyc
